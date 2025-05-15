@@ -322,6 +322,7 @@
 				"keyword.operator.alignas",
 				"keyword.operator.instanceof",
 				"keyword.operator.logical.python",
+				"keyword.operator.logical.lua",
 				"keyword.operator.wordlike"
 			],
 			"settings": {

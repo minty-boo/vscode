@@ -301,7 +301,8 @@
 				"keyword.operator.expression",
 				"keyword.operator.cast",
 				"keyword.operator.sizeof",
-				"keyword.operator.logical.python"
+				"keyword.operator.logical.python",
+				"keyword.operator.logical.lua"
 			],
 			"settings": {
 				"foreground": "#569cd6"
